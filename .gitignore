@@ -1,4 +1,4 @@
 .env
 proj_roadmap.md
-
-!/data/raw/linkedin/
+/data/
+!/data/processed/cleaned_occupations.csv
