@@ -2,6 +2,8 @@
 
 [SEE LIVE DEMO HERE](https://job-skills.streamlit.app/)
 
+![occupations](https://github.com/zachpinto/onet-linkedin-occupation-classifications/assets/45244995/70940203-7a59-4b05-abf6-3f00b5612b28)
+
 ## Overview
 This tool displays skill requirements of ONet Occupation Classifications used scraped LinkedIn job postings.
 
