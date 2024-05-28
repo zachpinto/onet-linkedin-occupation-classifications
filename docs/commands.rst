@@ -1,3 +1,7 @@
+
+### `commands.rst`
+
+```rst
 Commands
 ========
 

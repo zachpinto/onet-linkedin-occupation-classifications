@@ -2,7 +2,7 @@
 
 [SEE LIVE DEMO HERE](https://job-skills.streamlit.app/)
 
-![occupations](https://github.com/zachpinto/onet-linkedin-occupation-classifications/assets/45244995/70940203-7a59-4b05-abf6-3f00b5612b28)
+![img.png](img.png)
 
 ## Overview
 This tool displays skill requirements of ONet Occupation Classifications used scraped LinkedIn job postings.
@@ -70,10 +70,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 onet-linkedin-occupation-classifications/
 │
 ├── data/
-│   ├── external/       # Linkedin Data
+│   ├── external/       # O*Net Online Data
 │   ├── interim/        # Intermediate data processing files
 │   ├── processed/      # Processed data ready for streamlit app
-│   └── raw/            # Raw ONet data
+│   └── raw/            # Raw linkedin data
 ├── docs/               # Documentation files and project notes
 ├── reports/            # Generated analysis as HTML, PDF, LaTeX, etc.
 │   └── figures/        # Generated graphics and figures to be used in reporting

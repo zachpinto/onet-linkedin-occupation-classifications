@@ -1,10 +1,10 @@
-.. project_name documentation master file, created by
+.. onet_linkedin_occupation_classifications documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-project_name documentation!
-==============================================
+onet_linkedin_occupation_classifications documentation!
+========================================================
 
 Contents:
 
@@ -13,8 +13,6 @@ Contents:
 
    getting-started
    commands
-
-
 
 Indices and tables
 ==================
